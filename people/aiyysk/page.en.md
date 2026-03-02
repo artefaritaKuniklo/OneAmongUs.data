@@ -12,20 +12,20 @@ Aiyysk was a lovely MTF girl.
 Her name is the Chinese transliteration of the Japanese term “異世界” (romanized Isekai, meaning “another world”).
 
 She came from a single-parent family and has frequently experienced domestic violence.
-She suffered from depression and dissociative identity disorder, as well as severe somatic symptoms.
+She suffered from depression and dissociative disorders, as well as severe somatic symptoms.
 
 She was passionate about digital technology and networking, often flashing custom ROMs on her Android devices.
 
 ## First Encounter
 
 I met her through a help-seeking post on CoolAPK. 
-She had a Snapdragon 855 Qualcomm Reference Design (QRD) prototype that wouldn’t boot due to a failed flashing attempt, leaving her with no choice but to seek help.
+That was in the autumn of 2023. She had a Snapdragon 855 Qualcomm Reference Design (QRD) prototype that wouldn’t boot due to a failed flashing attempt, leaving her with no choice but to seek help.
 After leaving a message offering assistance, we quickly added each other on QQ.
 
-After listening to her description of the problem, I realised she had made the same mistake I once made: switching the system slot[^1].
+After listening to her description of the problem, I realized she had made the same mistake I once made: switching the system slot[^1].
 However, the B slot on these prototypes was empty, which caused the device to fail to boot and get stuck in EDL mode[^2].
 
-During our conversation, I learned that her situation was difficult.
+During our conversation, I learned by chance that her situation was difficult.
 But she declined when I tried to learn more about the specific circumstances, and said, “Just focus on yourself, don’t worry about me.”
 
 Despite this, she later confided in me that she had been suffering from domestic violence and had attempted to run away from home multiple times.
@@ -35,14 +35,14 @@ She said, “I’ve been struggling with this device for two months, thank you s
 
 It felt truly rewarding to be able to help someone with what little knowledge I had.
 
-As we continued talking, she confessed to me that she was a MTF and sent a photo.
+As we continued talking, she confessed to me that she was an MTF and sent a photo.
 In the picture, boxes of medications like Progynova and Cyproterone could be seen. I was a bit stunned and asked her again.
 
-Me: “Are you... joking?”
+Me: “Are you ... joking?”
 
 Aiyysk: “No, I’m not.”
 
-Me: “So... you’re MTF?”
+Me: “So ... you’re MTF?”
 
 Aiyysk: “I’m MTF, what about it?”
 
@@ -58,7 +58,7 @@ I only knew such a community existed. I was afraid to reach out because I worrie
 
 Aiyysk: “I get it. I’ve felt the same way.”
 
-This was my first time talking to a MTF person.
+This was my first time talking to an MTF person.
 As a “cis straight guy”, I struggled to process all this information at the time.
 To collect my thoughts, I didn’t reply to her messages for two or three days.
 After gathering my courage, I finally resumed our conversation.
@@ -87,7 +87,7 @@ Me: “The problem is, what’s considered ‘normal’ by most people might not
 
 Aiyysk:
 “I won’t make things difficult for friends~ Just interact naturally and kindly.
-If there’s anything you need, we can work through it together~ Patpat, your little fool”
+If there’s anything you need, we can work through it together~ Patpat, you little fool”
 
 She was so gentle, so full of warmth.
 From then on, I embraced her as one of my closest friends.
@@ -129,7 +129,7 @@ Me: “I’m the fool, heh.”
 Aiyysk: “Alright, alright~”
 
 My worries vanished.
-Suddenly, I realised it was New Year’s Eve, and I hadn’t yet extended my New Year greetings to her.
+Suddenly, I realized it was New Year’s Eve, and I hadn’t yet extended my New Year greetings to her.
 
 Me: “Mhm, Happy New Year! Sending early wishes.”
 
@@ -226,16 +226,16 @@ At 2:11, she sent a few pictures in the chat.
 Under the dim streetlights, she held her suitcase and set off on her journey.
 
 ## Her Departure
-At that time, I was hospitalised and undergoing treatment, so I knew very little about this part.
+At that time, I was hospitalized and undergoing treatment, so I knew very little about this part.
 It is a painful memory, and I have no desire to ask those involved for more details.
 
-All I know is, at 0:00 a.m on December 15, 2024, after learning of the tragic passing of a MTF a few days earlier, she and another MTF ingested a large quantity of drugs and chemical solutions, leaving this world.
-
-Goodnight. May you be a carefree, lovely girl in your next life.
+All I know is, at 00:00 on December 15, 2024, after learning of the tragic passing of an MTF a few days earlier, she and another MTF she was living with ingested a large quantity of drugs and chemical solutions, leaving this world.
 
 > 「一生朋友拥抱爱，一世美景满花开。」
-
+>
 > “A lifetime of friendship embraces love, A world of beauty blooms with flowers.”
+
+Goodnight. May you be a carefree, lovely girl in your next life.
 
 Contributor for this entry: [Shinjo Kurumi](https://github.com/ShinjoKurumi) ([RainCandy Technology](http://raincandy.tech/))
 
