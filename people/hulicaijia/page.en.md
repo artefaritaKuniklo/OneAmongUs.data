@@ -46,12 +46,12 @@ I don't quite know what compelled me, but I listened to so many of the stories s
 Perhaps it was also my own loneliness.
 We started calling each other sisters, growing closer and closer, and she changed her profile picture to Yorshka — Gwyndolin's sister.
 
-She loved listening to VOCALOID songs and was always getting me to listen to all sorts of jutsukyoku with her.
-She also loved *Connect*, the opening theme of *Madoka Magica*.
+She loved listening to Vocaloid songs and was always getting me to listen to all sorts of Vocaloid songs with her.
+She also loved *Connect*, the opening theme of *Puella Magi Madoka Magica*.
 She really did love Madoka.
 In her mind, everyone who died would be taken in by the Law of Cycles.[^1]
 
-When Caijia was still in Hunan, I once ordered milk tea delivery for her, and that was how I came to have her home address memorized.
+When Caijia was still in Hunan, I once ordered drink delivery for her, and that was how I came to have her home address memorized.
 One time, I heard she had attempted suicide.
 In a panic, I gave the address to the local police.
 It was only when the police got back to me and said she had vomited up the pills she'd swallowed, right in front of them, that I felt some relief.
@@ -65,7 +65,7 @@ Caijia said she'd come, no problem.
 But I wasn't allowed to stop her from cutting herself, wasn't allowed to stop her from overdosing, and wasn't allowed to stop her from — doing compensated dating.
 All I could do was nod and go along with it, though in the end she never actually went through with that last one.
 
-On March 13th, Caijia took the high-speed rail to come find me, but she'd bought a ticket to the remote Chongqingxi Station by mistake.
+On 13th March, Caijia took the high-speed rail to come find me, but she'd bought a ticket to the remote Chongqingxi Station by mistake.
 Still, I took the metro there early and waited.
 When she finally arrived, the little lost soul got turned around again, and we spent ages searching for each other before we finally met.
 
@@ -205,7 +205,7 @@ Come to think of it, we'd heard there was a maimai machine at a nearby arcade, b
 
 ## Plushies
 
-April 29th was my birthday, and Caijia had prepared a plushie for me well in advance. It was a... big shark.
+29th April was my birthday, and Caijia had prepared a plushie for me well in advance. It was a... big shark.
 
 But Caijia, clumsy as she was, plunged the knife in a bit too hard while opening the package and accidentally stabbed the poor sharkie to death.
 
@@ -255,7 +255,7 @@ So together we made up a lie. We told them she had gone somewhere else to visit 
 
 ## Insomnia
 
-On May 4th, it was drizzling in Yubei.
+On 4th May, it was drizzling in Yubei.
 I'd been up all night gaming.
 
 Caijia came up to me and asked: “Sis hasn't been overdosing lately...What's going on...?”
