@@ -73,7 +73,7 @@ When she finally arrived, the little lost soul got turned around again, and we s
 '${path}/photos/photo1.webp',
 ]} />
 
-<p style="text-align: center;">(Holding hands when we met)</p>
+<p style="text-align: center;">(Holding hands when we met — mine on top, Caijia's below.)</p>
 
 The moment I saw her, something inside me just felt: “Ah, this must be may soulmate.”
 Then I took her hand, and we rode the metro home.

@@ -45,7 +45,7 @@ desc: 彩加，一个小孩子。在我看来，就像豆花一样吧。
 <PhotoScroll photos={[
 '${path}/photos/photo1.webp',
 ]} />
-<p style="text-align: center;">（相遇时的牵手）</p>
+<p style="text-align: center;">（相遇时的牵手，上面的是我的手，下面的是彩加的手。）</p>
 
 看到她的第一眼，我的内心就感觉，「啊，那一定就是命中注定的缘分」，之后就牵着她的手，坐轻轨回家了。
 
