@@ -243,7 +243,7 @@ All I could do was throw away her pills and stay by her side.
 >
 > Goodnight — what irony...
 >
-> (Excerpted from Caijia's posts)
+> (Excerpted from Caijia's tweets)
 
 Then there was another time... I think it was because I didn't want her using the surgical blade to hurt herself anymore, and we ended up in a physical struggle.
 She beat me black and blue. I was falling apart and just wanted to go to my room for some quiet.
@@ -336,7 +336,7 @@ They walked over and turned Caijia onto her back. Only then could I finally see 
 
 The tears wouldn't stop.
 
-"I'm sorry... your big sis didn't protect you..."
+“I'm sorry... your big sis didn't protect you...”
 
 ## Absence
 
@@ -420,7 +420,7 @@ Contributor for this entry: [Poetry Luna](https://twitter.com/Poetry_Luna)
 
 [^6]: Now part of the Liangjiang New Area commercial district in Chongqing. Chongqing Park Paradise Walk, Chongqing Joy City, and Wuyue Plaza (Central Park, Chongqing) are all located here.
 
-[^7]: In Chinese, “goodnight” (晚安, wǎn'ān) is a near-homophone of amantadine (金刚烷胺, jān gāng wǎn'àn), the drug mentioned earlier. The word here carries both meanings.
+[^7]: In Chinese, “goodnight” (晚安, wǎn'ān) is a near-homophone of amantadine (金刚烷胺, jīn gāng wǎn'àn), the drug mentioned earlier. The word here carries both meanings.
 
 [^8]: [Refers to the administrative redistricting of Chongqing on November 5, 2025, in which the greater part of the former Yubei District was merged into Liangjiang New Area.](https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html)
 
