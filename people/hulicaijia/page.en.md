@@ -7,7 +7,7 @@ desc: Just a kid.To me, she was something like douhua.
 ---
 
 > [!Tip] Reader's note:
-> For the sake of narrative completeness and coherence, this article has made an exception to retain the names of certain medications involved in overdose episodes.
+> For the sake of narrative completeness and coherence, this article has made an exception to retain the specific names of certain medications involved in episodes of drug misuse and sensitive medication use.
 > Please do not imitate any of the actions described.
 > If you feel unwell while reading, or experience any mental distress that may put you in danger, please stop reading immediately and seek help from a medical professional or the community.
 
