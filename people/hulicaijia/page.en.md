@@ -3,7 +3,7 @@ name: Sakurazaki Saika
 info:
     alias: Caijia, Sakurazaki Saika
     location: Yubei, Chongqing
-desc: Just a kid.To me, she was something like douhua.
+desc: Just a kid. To me, she was something like douhua.
 ---
 
 > [!Tip] Reader's note:
