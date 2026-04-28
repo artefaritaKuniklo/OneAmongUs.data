@@ -72,6 +72,7 @@ When she finally arrived, the little lost soul got turned around again, and we s
 <PhotoScroll photos={[
 '${path}/photos/photo1.webp',
 ]} />
+
 <p style="text-align: center;">(Holding hands when we met)</p>
 
 The moment I saw her, something inside me just felt: “Ah, this must be may soulmate.”
@@ -159,8 +160,8 @@ It was a kind of happiness I hadn't felt in a long time — as if I wasn't so al
 <PhotoScroll photos={[
 '${path}/photos/photo4.webp',
 ]} />
-<p style="text-align: center;">
-(Photo booth pictures taken with her near Jiefangbei Pedestrian Street)</p>
+
+<p style="text-align: center;">(Photo booth pictures taken with her near Jiefangbei Pedestrian Street)</p>
 
 I remember walking with her along the streets around Jiefangbei, around eight or nine in the evening, just holding her hand, and yet it felt like I had the whole world.
 
@@ -182,6 +183,7 @@ Caijia and I browsed around in there for ages — so many cute figurines, all of
 <PhotoScroll photos={[
 '${path}/photos/photo5.webp',
 ]} />
+
 <p style="text-align: center;">(A date at Brew King Bistro on Paradise Walk)</p>
 
 So we went upstairs to Brew King Bistro and sat down to eat.
@@ -196,6 +198,7 @@ And that's how this photo came to be:
 <PhotoScroll photos={[
 '${path}/photos/photo6.webp',
 ]} />
+
 <p style="text-align: center;">(Caijia in front of Naìsnow on Paradise Walk)</p>
 
 Come to think of it, we'd heard there was a maimai machine at a nearby arcade, but since we were both too socially anxious, we never once tried it.
@@ -220,6 +223,7 @@ Later, to make up for it, she bought me a Kuromi plushie.
 <PhotoScroll photos={[
 '${path}/photos/photo7.webp',
 ]} />
+
 <p style="text-align: center;">(The Kuromi plushie Caijia gave me)</p>
 
 Although the sharkie is no longer with me. 
@@ -402,7 +406,7 @@ Even though I don't actually like drinking them at all... the rim of the glass i
 
 But it was my first drink at a bar, and it was hers too.
 
-Entry contribution: [Poetry Luna](https://twitter.com/Poetry_Luna)
+Contributor for this entry: [Poetry Luna](https://twitter.com/Poetry_Luna)
 
 [^1]: See the final episode of the *Puella Magi Madoka Magica* TV anime, *My Very Best Friend*.
 
