@@ -44,7 +44,7 @@ Back then, my profile picture was Gwyndolin from *Dark Souls*.
 When she asked if my avatar was from Dark Souls, I said yes, and that rush of joy — finding someone who shared the same interest — welled up inside me.
 I don't quite know what compelled me, but I listened to so many of the stories she told, and felt a kind of pity for her.
 Perhaps it was also my own loneliness.
-We started calling each other sisters, growing closer and closer, and she changed her profile picture to Yorshka — Gwyndolin's sister.
+We started calling each other sisters, growing closer and closer, and she changed her QQ profile picture to Yorshka — Gwyndolin's sister.
 
 She loved listening to Vocaloid songs and was always getting me to listen to all sorts of Vocaloid songs with her.
 She also loved *Connect*, the opening theme of *Puella Magi Madoka Magica*.
