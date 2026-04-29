@@ -1,8 +1,9 @@
-courage---
+---
 name: NIGHT
 info:
     alias: NIGHT
     location: China
+desc: I lived an unhappy life, full of regrets.
 ---
 
 ## Tenderness in the Corner

@@ -3,6 +3,7 @@ name: NIGHT
 info:
     alias: NIGHT
     location: 中国
+desc: 我度过了一个不幸而充满遗憾的一生。
 ---
 
 ## 角落里的温柔
