@@ -20,7 +20,7 @@ Her reading list ranged from works of great depth and fate such as *Faust* and *
 Visual novels were also a vital source of nourishment for her spirit.
 Within those worlds woven from text and choices, where branching storylines intertwined, she gradually formed her own values.
 Among the many titles she encountered, the one that left the deepest mark was the *Rance* series—and the character she loved most dearly was Shizuka Masou.
-Shizuka was a powerful and gifted sorceress, carrying the trauma of her father’s early death and an obsession with vengeance, fighting against fate while holding fast to her own moral compass.
+Shizuka was a powerful and gifted magic user, carrying the trauma of her father’s early death and an obsession with vengeance, fighting against fate while holding fast to her own moral compass.
 Cold and distant on the surface, she concealed boundless tenderness and goodwill within.
 Shizuka’s strength of character profoundly influenced NIGHT, and so, throughout her life, she strove to embody the resilience, kindness, and quiet tenderness that Shizuka never easily revealed to others.
 
@@ -62,7 +62,7 @@ Unable to subdue her with physical violence any longer, her father continued to 
 ## Malice from Every Side
 
 According to NIGHT’s own recollection, around the time of her senior high school entrance exams, she faced extreme bullying at school.
-Perhaps because she could not bear to revisit those memories, she initially wrote the year as 2019, only realising after putting it down that it should have been 2020.
+Perhaps because she could not bear to revisit those memories, she initially wrote the year as 2019, only realizing after putting it down that it should have been 2020.
 
 At school, everyone mocked her for her unclear speech, imitating the way she talked to humiliate her.
 The experience left a deep scar—so much so that, from then on, she became acutely self-conscious about her voice.
@@ -167,7 +167,7 @@ A few days later, she wrote:
 > Well… if I were to die, all I could say would be, “I lived an unhappy life, full of regrets.”
 
 Sadly, as time went on, NIGHT came to feel that she had been living in the past all along.
-What she chased was a happiness that had already been, and she realised those days could never return.
+What she chased was a happiness that had already been, and she realized those days could never return.
 
 > Perhaps I died back in those long-gone, unreachable days, and surviving was nothing but an accident.
 >
