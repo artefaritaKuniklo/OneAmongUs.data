@@ -11,7 +11,7 @@ desc: Here to make some friends too!
 MocaKawai took her name from Aoba Moca of *BanG Dream!*.
 Whichever Moca you have in mind,
 both are impossibly endearing,
-both a little scatterbrained — the kind of person you can't help but look at twice.
+both a little scatterbrained — the kind of person you can’t help but look at twice.
 
 As a transit enthusiast,
 Moca played a wide range of simulation and management games,
@@ -21,8 +21,8 @@ She would often stare at route maps, lost in thought, designing the perfect tran
 She also played *Fall Guys* and *Among Us*.
 She was always warm and lively in the comment sections of her videos, sometimes sharing little tips and tricks with her friends there.
 
-Having lived in Sanya for most of her life, Moca knew the city's public transit system inside and out.
-She filmed a great many transit-related videos, the majority of which were front-window POVs of Sanya's bus routes.
+Having lived in Sanya for most of her life, Moca knew the city’s public transit system inside and out.
+She filmed a great many transit-related videos, the majority of which were front-window POVs of Sanya’s bus routes.
 
 For those who follow transit POVs, what matters most is not the footage itself, it is the mood.
 A different route, a different hour, a different state of mind, and the POV becomes something else entirely, something hard to put into words.
@@ -31,14 +31,14 @@ She gave each of her POV videos a carefully chosen title, passing on that sense 
 
 > “Express from the two major hubs straight to the westernmost tip of Sanya”
 >
-> “Drifting into nightfall in the hypnotic sway of a sightseeing route at China's southernmost point”
+> “Drifting into nightfall in the hypnotic sway of a sightseeing route at China’s southernmost point”
 >
 > “Racing uphill through a downpour”
 >
 > “Chasing the sunset on the expressway!”
 
 In September 2022, confined at home during the COVID-19 pandemic,
-Moca created a schematic map of [Sanya's rapid transit network](https://www.bilibili.com/read/cv18624078).
+Moca created a schematic map of [Sanya’s rapid transit network](https://www.bilibili.com/read/cv18624078).
 Nearly a year later, she [revisited and refined the map](https://www.bilibili.com/read/cv2497345811), adding several intercity routes to the original design.
 
 Her love for transit was much like the titles she wrote.
@@ -46,7 +46,7 @@ Every bit of it sincere, and quietly romantic.
 
 ## Escape from the Island
 
-In the summer of 2023, Moca's mental health deteriorated sharply for a number of reasons, and she began to overdose.
+In the summer of 2023, Moca’s mental health deteriorated sharply for a number of reasons, and she began to overdose.
 The pressure of her final year of high school soon followed.
 At the end of August, a suicide attempt landed her in the ICU.
 She survived, but things did not truly get better.
@@ -58,7 +58,7 @@ The trip allowed her to meet friends she had only known online, and for a while,
 
 > Tried savoury doufunao (tofu pudding) for the first time? Not really my thing. Long live sweet doufunao!
 >
-> McDonald's! It's so much cheaper outside Sanya, I'm so jealous…
+> McDonald’s! It’s so much cheaper outside Sanya, I’m so jealous…
 >
 > The sticky rice is delicious! Totally different from what you get in Sanya!
 
@@ -70,7 +70,7 @@ Her continued misuse of medication only made things worse.
 The substance she had purchased during her travels ultimately took her life after she returned to Sanya.
 She did not make it through that autumn.
 
-“It's so damp… or maybe that's just my tears…”
+“It’s so damp… or maybe that’s just my tears…”
 
 Rain or shine, silence or rush hour... All of it was scenery that Moca wanted to share with us.
 Every route she cared about, she recorded with care and posted for her fellow transit lovers to see.
