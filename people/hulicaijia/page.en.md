@@ -51,7 +51,7 @@ She also loved *Connect*, the opening theme of *Puella Magi Madoka Magica*.
 She really did love Madoka.
 In her mind, everyone who died would be taken in by the Law of Cycles.[^1]
 
-When Caijia was still in Hunan, I once ordered drink delivery for her, and that was how I came to have her home address memorized.
+When Caijia was still in Hunan, I once ordered bubble tea delivery for her, and that was how I came to have her home address memorized.
 One time, I heard she had attempted suicide.
 In a panic, I gave the address to the local police.
 It was only when the police got back to me and said she had vomited up the pills she’d swallowed, right in front of them, that I felt some relief.
@@ -75,7 +75,7 @@ When she finally arrived, the little lost soul got turned around again, and we s
 
 <p style="text-align: center;">(Holding hands when we met — mine on top, Caijia’s below.)</p>
 
-The moment I saw her, something inside me just felt: “Ah, this must be may soulmate.”
+The moment I saw her, something inside me just felt: “Ah, this must be my soulmate.”
 Then I took her hand, and we rode the metro home.
 
 ## Mint
@@ -98,7 +98,7 @@ When the taste registered, she realized it really was just like mint.
 Her emotions were very unstable.
 Whenever she broke down, she’d rush into the bathroom, lock the door, and cut her arms and thighs with a surgical blade.
 Sometimes it only took a disagreement between us for her to lock herself away and self-harm.
-I was completely helpless, and it drove me to the edge too, with nowhere to let it out
+I was completely helpless, and it drove me to the edge too, with nowhere to let it out.
 All I could do was hurt myself the way she did.
 The scars on my left hand are still clearly visible to this day.
 
@@ -128,7 +128,7 @@ But she truly did have a happy time.
 
 She loved eating Cuixiangmi instant noodle snacks, tomato-flavoured instant noodles, and Fujiya lollipops.
 Every trip to the convenience store, she’d grab a whole armful and carry it all home.
-She also loved going to McDonald’s with me, and tucked into Grilled Chicken Sandwich and McFlurries.
+She also loved going to McDonald’s with me, and tucked into Grilled Chicken Sandwiches and McFlurries.
 
 <PhotoScroll photos={[
 '${path}/photos/photo2.webp',
@@ -141,7 +141,7 @@ Caijia loved watching anime.
 Back then, we finished watching *Gushing over Magical Girls* together.
 The title sounds like a magical girl story, but it’s actually overflowing with strange yuri elements.
 Her favourite character was Araga Kiwi, someone who looks like a fool on the surface but is actually hiding a great deal of strength.
-Sometimes, after taking our pills, we’d lie on the sofa, hook the laptop up to the TV, and keep enjoying the scene.
+Sometimes, after taking our pills, we’d lie on the sofa, hook the laptop up to the TV, and keep enjoying the show.
 
 We sometimes bought Rio premixed cocktails and watched *Kamen Rider Build* together.
 She quite liked it. The scene that left the deepest impression on her was Saruwatari Kazumi’s final transformation. His Hazard Level[^2] was too high, and in order to save his companions and the world, he forced a transformation using the Blizzard Knuckle, ultimately dying because it exceeded what a human body could withstand.
@@ -191,7 +191,7 @@ It was quite a feast, and Caijia was very happy.
 Though perhaps girls really do have four stomachs — one for the main course, one for snacks, one for fruit, and one for drinks.
 After the meal, we left the Paradise Walk and went looking for something to drink.
 
-At Naìsnow, Caijia and I placed our order and sat down to wait until the staff called our number.
+At Nayuki, Caijia and I placed our order and sat down to wait until the staff called our number.
 Right at that moment, her mother happened to call to ask how Caijia was doing.
 And that’s how this photo came to be:
 
@@ -258,12 +258,12 @@ So together we made up a lie. We told them she had gone somewhere else to visit 
 On 4th May, it was drizzling in Yubei.
 I’d been up all night gaming.
 
-Caijia came up to me and asked: “Sis hasn’t been overdosing lately...What’s going on...?”
+Caijia came up to me and asked: “You hasn’t been overdosing lately, sis... What’s going on...?”
 
 Looking back, maybe I’d unconsciously felt that she was in too bad a state and thought it would be better not to touch the stuff anymore.
 I can’t quite remember now. But she brought it up, and I thought, well, if that’s what she wants.
 
-“I guess you’re right. If you want some, I’ll go buy with you.” I said.
+“I guess you’re right. If you want some, I’ll go buy some with you.” I said.
 
 On the way home from buying the pills, she picked up a parcel — a box of empty capsule shells.
 According to her, if you crushed the pills and put them inside, they wouldn’t taste so bad. We took them together after that.
@@ -410,7 +410,7 @@ Contributor for this entry: [Poetry Luna](https://twitter.com/Poetry_Luna)
 
 [^1]: See the final episode of the *Puella Magi Madoka Magica* TV anime, *My Very Best Friend*.
 
-[^2]: In *Kamen Rider Build*, the “Hazard Level” is a measure of one’s power. Tthe higher the value, the greater the strength, but also the greater the risk of losing control.
+[^2]: In *Kamen Rider Build*, the “Hazard Level” is a measure of one’s power. The higher the value, the greater the strength, but also the greater the risk of losing control.
 
 [^3]: Now part of the Liangjiang New Area commercial district in Chongqing.
 

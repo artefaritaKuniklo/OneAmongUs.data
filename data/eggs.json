@@ -93,7 +93,7 @@
       "height": 64
     }
   },
-    {
+  {
     "type": "wait",
     "userid": ["hulicaijia"],
     "wait": 40000,
