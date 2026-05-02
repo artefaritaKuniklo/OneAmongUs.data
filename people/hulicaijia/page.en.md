@@ -141,7 +141,7 @@ Caijia loved watching anime.
 Back then, we finished watching *Gushing over Magical Girls* together.
 The title sounds like a magical girl story, but it’s actually overflowing with strange yuri elements.
 Her favourite character was Araga Kiwi, someone who looks like a fool on the surface but is actually hiding a great deal of strength.
-Sometimes, after taking our pills, we’d lie on the sofa, hook the laptop up to the TV, and keep enjoying the show.
+Sometimes, after taking our pills, we’d lie on the sofa, hook the laptop up to the TV, and keep enjoying the scenes.
 
 We sometimes bought Rio premixed cocktails and watched *Kamen Rider Build* together.
 She quite liked it. The scene that left the deepest impression on her was Saruwatari Kazumi’s final transformation. His Hazard Level[^2] was too high, and in order to save his companions and the world, he forced a transformation using the Blizzard Knuckle, ultimately dying because it exceeded what a human body could withstand.
@@ -191,7 +191,7 @@ It was quite a feast, and Caijia was very happy.
 Though perhaps girls really do have four stomachs — one for the main course, one for snacks, one for fruit, and one for drinks.
 After the meal, we left the Paradise Walk and went looking for something to drink.
 
-At Nayuki, Caijia and I placed our order and sat down to wait until the staff called our number.
+At Naixue[^7], Caijia and I placed our order and sat down to wait until the staff called our number.
 Right at that moment, her mother happened to call to ask how Caijia was doing.
 And that’s how this photo came to be:
 
@@ -199,7 +199,7 @@ And that’s how this photo came to be:
 '${path}/photos/photo6.webp',
 ]} />
 
-<p style="text-align: center;">(Caijia in front of Naìsnow on Paradise Walk)</p>
+<p style="text-align: center;">(Caijia in front of Naixue on Paradise Walk)</p>
 
 Come to think of it, we’d heard there was a maimai machine at a nearby arcade, but since we were both too socially anxious, we never once tried it.
 
@@ -237,7 +237,7 @@ All I could do was throw away her pills and stay by her side.
 
 > I’m really scared of bugs...
 >
-> The hallucinations from "goodnight"[^7] are really strange and terrifying.
+> The hallucinations from “goodnight”[^8] are really strange and terrifying.
 >
 > Swarms of insects pouring out from under the bed, the floor covered in shattered glass from my glasses...
 >
@@ -385,7 +385,7 @@ Does she remember any of this?
 Wherever she is — has she found happiness...?
 
 In the blink of an eye, the name Yubei has been fading with the wind.
-The signs bearing Yubei’s name have been taken down one by one, replaced by Liangjiang New Area.[^8]
+The signs bearing Yubei’s name have been taken down one by one, replaced by Liangjiang New Area.[^9]
 
 But that story remains forever in a Yubei that can never be returned to.
 
@@ -420,8 +420,10 @@ Contributor for this entry: [Poetry Luna](https://twitter.com/Poetry_Luna)
 
 [^6]: Now part of the Liangjiang New Area commercial district in Chongqing. Chongqing Park Paradise Walk, Chongqing Joy City, and Wuyue Plaza (Central Park, Chongqing) are all located here.
 
-[^7]: In Chinese, “goodnight” (晚安, wǎn’ān) is a near-homophone of amantadine (金刚烷胺, jīn gāng wǎn’àn), the drug mentioned earlier. The word here carries both meanings.
+[^7]: Formerly Nayuki, renamed Naìsnow in 2025.
 
-[^8]: [Refers to the administrative redistricting of Chongqing on November 5, 2025, in which the greater part of the former Yubei District was merged into Liangjiang New Area.](https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html)
+[^8]: In Chinese, “goodnight” (晚安, wǎn’ān) is a near-homophone of amantadine (金刚烷胺, jīn gāng wǎn’àn), the drug mentioned earlier. The word here carries both meanings.
+
+[^9]: [Refers to the administrative redistricting of Chongqing on November 5, 2025, in which the greater part of the former Yubei District was merged into Liangjiang New Area.](https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html)
 
 <Sakura count="50" />
