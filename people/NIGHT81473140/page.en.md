@@ -49,7 +49,7 @@ On the pages of a diary already yellowed with age, her training results were rec
 
 Years of persistent training gave her body the strength to stand against her father. At last, she could protect herself and her mother.
 
-“You can call me a lousy son if you want, but back then, I protected my mum. That’s one of the few things I can actually be proud of.”
+“You can call me a unfilial son if you want, but back then, I protected my mum. That’s one of the few things I can actually be proud of.”
 
 Unable to subdue her with physical violence any longer, her father continued to wear down her dignity with degrading words.
 
@@ -113,7 +113,7 @@ She envied Tomoya[^2], too—an ordinary person who lived a plain yet happy life
 >
 > Even though I couldn’t get enough to eat back then, had no friends at all, and was berated all day long.
 >
-> I still miss that time. I miss every day those paper-thin characters spent by my side. I’m grateful they kept me company through all that loneliness.
+> I still miss that time. I miss every day those fictional characters spent by my side. I’m grateful they kept me company through all that loneliness.
 >
 > Those lonely, painful days dragged on and on, but those games were among the very few lights that kept shining on me.
 >
@@ -207,7 +207,7 @@ Though the misunderstanding caused a bit of trouble, she felt, in it, a small to
 > Maybe I’m dreaming. I really do have a home—hazy, drifting. I must be dreaming.
 
 Even while drifting from place to place, she held on to the goodness in her heart.
-She took in a penniless, homeless trans girl, and paid out of her own pocket to cover the girl’s travel fare so she could move on.
+She took in a penniless, homeless trans girl, and paid out of her own pocket to cover the girl’s travel fare so she could travel on.
 
 She had wanted to go further, but she was tired.
 
