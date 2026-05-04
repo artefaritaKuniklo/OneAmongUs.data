@@ -45,7 +45,7 @@ She was very skilled at playing Fall Guys, and had unlocked all of its achieveme
 
 After her departure, among those who came to mourn her, there were these words from RusndageSNF:
 
-> I suddenly thought of you again… If you were still here, how wonderful that would be. We could queue for Fall Guys together.
+> I suddenly thought of you again… If you were still here, how wonderful that would be. We could play Fall Guys duos together.
 > 
 > I’d even give you my account... Why... why didn’t I meet you sooner…?
 > 
