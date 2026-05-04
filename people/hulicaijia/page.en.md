@@ -424,6 +424,6 @@ Contributor for this entry: [Poetry Luna](https://twitter.com/Poetry_Luna)
 
 [^8]: In Chinese, “goodnight” (晚安, wǎn’ān) is a near-homophone of amantadine (金刚烷胺, jīn gāng wǎn’àn), the drug mentioned earlier. The word here carries both meanings.
 
-[^9]: [Refers to the administrative redistricting of Chongqing on November 5, 2025, in which the greater part of the former Yubei District was merged into Liangjiang New Area.](https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html)
+[^9]: Refers to [the administrative redistricting of Chongqing on November 5, 2025](https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202511/t20251107_15148513.html), in which the greater part of the former Yubei District was merged into Liangjiang New Area.
 
 <Sakura count="50" />
